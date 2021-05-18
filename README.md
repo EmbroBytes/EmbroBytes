@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EmbroBytes
-- 👀 I’m interested in Salesforce, Web development & Java projects 
+- 👀 I’m interested in Salesforce, Java & Web development projects 
 - 🌱 I’m currently learning java and Web development programming languages
 - 💞️ I’m looking to collaborate on any project on java or web development
 - 📫 How to reach me @ adetunjieazy@yahoo.com
